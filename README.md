@@ -9,8 +9,4 @@ Enter the IP addresses for the switches into the CiscoSwitchIPAddress.txt file.
 
 Install the PoshSSH module (https://github.com/darkoperator/Posh-SSH)
 
-Run the Set-CiscoSwitches.ps1 file in PowerShell
-
-???
-
-Profit!
+Run the Set-CiscoSwitches.ps1 file in PowerShell.
