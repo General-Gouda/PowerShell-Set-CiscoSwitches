@@ -1,7 +1,7 @@
 # Set-CiscoSwitches
 ## Automation of Cisco Switch commands through SSH.
 
-> PowerShell script that helps with automating updates to Cisco switches through SSH.
+### PowerShell script that helps with automating updates to Cisco switches through SSH.
 
 Install the PoshSSH module (https://github.com/darkoperator/Posh-SSH)
 
