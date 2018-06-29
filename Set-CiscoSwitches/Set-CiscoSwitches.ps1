@@ -184,7 +184,7 @@ $InputXML = @"
         <TextBox x:Name="Commands_Textbox" HorizontalAlignment="Left" Height="228" TextWrapping="Wrap" AcceptsReturn="True" VerticalAlignment="Top" Width="331" Margin="28,56,0,0" Cursor="IBeam" TabIndex="0"/>
         <TextBox x:Name="IPAddresses_Textbox" HorizontalAlignment="Left" Height="228" TextWrapping="Wrap" AcceptsReturn="True" VerticalAlignment="Top" Width="214" Margin="384,56,0,0" Cursor="IBeam" Grid.ColumnSpan="2" TabIndex="1"/>
         <Button x:Name="Run_Button" Content="Run" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="1,302,0,0" TabIndex="2" Height="20" Grid.Column="1"/>
-        <Button x:Name="Use_Last" Content="Use Last Comands" HorizontalAlignment="Left" VerticalAlignment="Top" Width="114" Margin="28,302,0,0"/>
+        <Button x:Name="Use_Last" Content="Use Last Commands" HorizontalAlignment="Left" VerticalAlignment="Top" Width="114" Margin="28,302,0,0"/>
         <Button x:Name="Clear_Button" Content="Clear" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="147,302,0,0"/>
 
     </Grid>
